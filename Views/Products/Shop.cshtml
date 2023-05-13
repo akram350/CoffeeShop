@@ -1,0 +1,19 @@
+﻿
+@model IEnumerable<CoffeeShop.Models.Product>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Ma page de test</title>
+</head>
+<body>
+    @foreach(var item in Model)
+    {
+        <img height="100" width="100" src="@item.ImageUrl">
+        <h1>@item.Name</h1>
+    }
+    <h1>sss</h1>
+</body>
+</html>
+
