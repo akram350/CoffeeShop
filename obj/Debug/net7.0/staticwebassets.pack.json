@@ -1,12 +1,84 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
       "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\dropdown\\css\\style.css",
+      "PackagePath": "staticwebassets\\dropdown\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\dropdown\\js\\navbar-dropdown.js",
+      "PackagePath": "staticwebassets\\dropdown\\js\\navbar-dropdown.js"
+    },
+    {
       "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\formoid\\formoid.min.js",
+      "PackagePath": "staticwebassets\\formoid\\formoid.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\images\\anna-bratiychuk-3w2aurzeesu-unsplash-815x1223.jpg",
+      "PackagePath": "staticwebassets\\images\\anna-bratiychuk-3w2aurzeesu-unsplash-815x1223.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\images\\brent-ninaber-vlpefxuqynm-unsplash-2000x1125.jpg",
+      "PackagePath": "staticwebassets\\images\\brent-ninaber-vlpefxuqynm-unsplash-2000x1125.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\images\\coffee-beans-2258839-960.jpg",
+      "PackagePath": "staticwebassets\\images\\coffee-beans-2258839-960.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\images\\coffee-icon-sign-symbol-design-free-png.webp",
+      "PackagePath": "staticwebassets\\images\\coffee-icon-sign-symbol-design-free-png.webp"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\images\\giancarlo-duarte-rthw0pwclhw-unsplash-815x543.jpg",
+      "PackagePath": "staticwebassets\\images\\giancarlo-duarte-rthw0pwclhw-unsplash-815x543.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\images\\hashes.json",
+      "PackagePath": "staticwebassets\\images\\hashes.json"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\images\\jeremy-yap-jn-hagwe4yw-unsplash-815x1223.jpg",
+      "PackagePath": "staticwebassets\\images\\jeremy-yap-jn-hagwe4yw-unsplash-815x1223.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\images\\mbr-1920x1372.jpg",
+      "PackagePath": "staticwebassets\\images\\mbr-1920x1372.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\images\\mohammad-amirahmadi-tk2ifgn60xo-unsplash-815x1019.jpg",
+      "PackagePath": "staticwebassets\\images\\mohammad-amirahmadi-tk2ifgn60xo-unsplash-815x1019.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\images\\nathan-dumlao-nbjho6wmrww-unsplash-815x1223.jpg",
+      "PackagePath": "staticwebassets\\images\\nathan-dumlao-nbjho6wmrww-unsplash-815x1223.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\images\\tetiana-shyshkina-4lqjr8gu-bg-unsplash-815x1222.jpg",
+      "PackagePath": "staticwebassets\\images\\tetiana-shyshkina-4lqjr8gu-bg-unsplash-815x1222.jpg"
     },
     {
       "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\js\\site.js",
@@ -239,6 +311,98 @@
     {
       "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\mobirise\\css\\mbr-additional.css",
+      "PackagePath": "staticwebassets\\mobirise\\css\\mbr-additional.css"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\parallax\\jarallax.css",
+      "PackagePath": "staticwebassets\\parallax\\jarallax.css"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\parallax\\jarallax.js",
+      "PackagePath": "staticwebassets\\parallax\\jarallax.js"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\smoothscroll\\smooth-scroll.js",
+      "PackagePath": "staticwebassets\\smoothscroll\\smooth-scroll.js"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\socicon\\css\\styles.css",
+      "PackagePath": "staticwebassets\\socicon\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\socicon\\fonts\\socicon.eot",
+      "PackagePath": "staticwebassets\\socicon\\fonts\\socicon.eot"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\socicon\\fonts\\socicon.svg",
+      "PackagePath": "staticwebassets\\socicon\\fonts\\socicon.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\socicon\\fonts\\socicon.ttf",
+      "PackagePath": "staticwebassets\\socicon\\fonts\\socicon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\socicon\\fonts\\socicon.woff",
+      "PackagePath": "staticwebassets\\socicon\\fonts\\socicon.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\socicon\\fonts\\socicon.woff2",
+      "PackagePath": "staticwebassets\\socicon\\fonts\\socicon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\theme\\css\\style.css",
+      "PackagePath": "staticwebassets\\theme\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\theme\\js\\script.js",
+      "PackagePath": "staticwebassets\\theme\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.css",
+      "PackagePath": "staticwebassets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.css"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.eot",
+      "PackagePath": "staticwebassets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.svg",
+      "PackagePath": "staticwebassets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.ttf",
+      "PackagePath": "staticwebassets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.woff",
+      "PackagePath": "staticwebassets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\web\\assets\\mobirise-icons2\\mobirise2.css",
+      "PackagePath": "staticwebassets\\web\\assets\\mobirise-icons2\\mobirise2.css"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\web\\assets\\mobirise-icons2\\mobirise2.eot",
+      "PackagePath": "staticwebassets\\web\\assets\\mobirise-icons2\\mobirise2.eot"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\web\\assets\\mobirise-icons2\\mobirise2.svg",
+      "PackagePath": "staticwebassets\\web\\assets\\mobirise-icons2\\mobirise2.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\web\\assets\\mobirise-icons2\\mobirise2.ttf",
+      "PackagePath": "staticwebassets\\web\\assets\\mobirise-icons2\\mobirise2.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\web\\assets\\mobirise-icons2\\mobirise2.woff",
+      "PackagePath": "staticwebassets\\web\\assets\\mobirise-icons2\\mobirise2.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP USER\\Desktop\\CoffeeShop\\wwwroot\\ytplayer\\index.js",
+      "PackagePath": "staticwebassets\\ytplayer\\index.js"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.CoffeeShop.Microsoft.AspNetCore.StaticWebAssets.props",
