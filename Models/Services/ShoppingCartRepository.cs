@@ -35,6 +35,7 @@ namespace CoffeeShop.Models.Services
             {
                 ShoppingCartItem = new ShoppingCartItem
                 {
+                    ShoppingCartId= ShoppingCartId,
                     Product = product,
                     Qty = 1
                 };
@@ -57,8 +58,10 @@ namespace CoffeeShop.Models.Services
 
         public List<ShoppingCartItem> GetShoppingCartItems()
         {
-          return ShoppingCartItems ??=  dbContext.ShoppingCartItems.Where(s=>s.ShoppingCartId == ShoppingCartId).Include(p => p.Product).ToList();
-            
+            return ShoppingCartItems ??= dbContext.ShoppingCartItems
+               .Where(s => s.ShoppingCartId == ShoppingCartId)
+               .Include(p => p.Product)
+               .ToList();
         }
 
         public decimal GetShoppingCartTotal()

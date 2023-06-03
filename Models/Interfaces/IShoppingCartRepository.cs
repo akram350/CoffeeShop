@@ -3,7 +3,7 @@
     public interface IShoppingCartRepository
     {
         void AddToCart(Product product);
-        void RemoveFromCart(Product product);
+        int RemoveFromCart(Product product);
          List<ShoppingCartItem> GetShoppingCartItems();
         void ClearCart();
         decimal GetShoppingCartTotal();
