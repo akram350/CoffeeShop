@@ -8,7 +8,9 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
+
 builder.Services.AddScoped<IShoppingCartRepository, ShoppingCartRepository>(ShoppingCartRepository.GetCart);
+builder.Services.AddScoped<IOrderRepository, OrderRepository>();
 
 builder.Services.AddDbContext<CoffeeShopDbContext>(option=>option.UseSqlServer("Server=LAPTOP-VJVEJJS2\\SQLEXPRESS;Database=CoffeeShopDb;Trusted_Connection=True;TrustServerCertificate=true;MultipleActiveResultSets=true"));
 builder.Services.AddSession();
